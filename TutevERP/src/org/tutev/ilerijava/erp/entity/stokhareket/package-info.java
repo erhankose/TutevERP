@@ -6,8 +6,8 @@
 
 package org.tutev.ilerijava.erp.entity.stokhareket;
 
+// Deneme
 
-
-/*
-@author Mehmet Emin IÅIK
-*/
+/**
+ * @author Mehmet Emin IŞIK
+ */
