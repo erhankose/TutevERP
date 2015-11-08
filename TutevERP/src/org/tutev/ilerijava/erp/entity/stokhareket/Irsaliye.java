@@ -25,7 +25,7 @@ import org.tutev.ilerijava.erp.entity.base.BaseEntity;
  */
 
 @Entity
-@Table(name = "IRSALIYE")
+@Table(name = "IRS_IRSALIYE")
 public class Irsaliye extends BaseEntity {
 	private Long id;
 	private String tur;
