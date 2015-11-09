@@ -17,6 +17,6 @@
     <mapping class="org.tutev.ilerijava.erp.entity.genel.Kullanici"/>
     <mapping class="org.tutev.ilerijava.erp.entity.base.Adres"/>
     <mapping class="org.tutev.ilerijava.erp.entity.fatura.Fatura"/>
-    
+    <mapping class="org.tutev.ilerijava.erp.entity.stok.StokKart"/> 
   </session-factory>
 </hibernate-configuration>
